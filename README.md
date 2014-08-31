@@ -1,7 +1,10 @@
 unity-SocialPostPlugin
 ======================
 
-iOS Social.framework Plugin
+This Plugin could post to facebook/twitter.
+
+*  iOS Social.framework Plugin
+*  Android Intent Plugin
 
 ##howtouse
 
